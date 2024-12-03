@@ -14,3 +14,6 @@
 
 ### Курсы валют:
 [data_link_exchange_rates](https://drive.google.com/file/d/1LtvRmRegxoy2QA7y0f4k6WpeXDE5KQKn/view?usp=sharing)
+
+### Colab notebook:
+[colab_notebook](https://drive.google.com/file/d/1vxl8V4_rzJSrnGQnQfssuBbCYOgNhGwQ/view?usp=sharing)
